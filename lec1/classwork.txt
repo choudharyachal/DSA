@@ -1,0 +1,67 @@
+//sum of n natural no done 
+//print even no from 1 to 10000 done
+//sum of even on from 1 to 10000 done
+//multiplication table of 7
+//reverse of no
+// example - 123
+//output - 321
+
+
+you are given a number n .
+you have to determine what the person wins based on the following conditions 
+if n >=300 and n<=460, the prize is macbook
+if n>=200 and n<=280 , the prize is kurkure
+if n>=1100 and n<=1500 , the prize is cycle 
+if n>50 and n<=80 , the prize is bike 
+for all other value of n print better luck next time 
+
+reverse logic == 0*10+remainder
+int ans = 0 
+while n> 0  {
+
+    n=n /10 
+    ans = ans *10+r
+}
+
+multiplication logic :
+
+
+m1= y2-y1/x2-x1
+m2 = y3-y2/x3-x2
+m1=m2 then they all lie in same line ie., straightline 
+
+pattern printing 
+*****
+*****
+*****
+*****
+*****
+for(int i= 1<=n;i++){
+   for(int j = 1; j<=n;i++){
+    system.out.print("*")
+   }
+   system.out.println();
+}
+
+while--
+int n = 
+int row =1
+while row (<=n){
+    int j = 1;
+    while (j<=n){
+        system...
+        j++;
+
+    }
+    system ....
+    j++;
+}
+
+all patterns print in void homework
+test opto date 
+
+sum of n natural no 
+print even no fron 1 to 10000
+sum of even no fromn 1 to 1000 
+multiplication of 7 
+reverse no 
